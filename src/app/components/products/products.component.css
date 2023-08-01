@@ -1,0 +1,14 @@
+.search{
+    margin: auto 5px;
+}
+
+.searchb{
+    margin-left: 500px;
+    margin-right: 0%;
+}
+
+.form-inline{
+    display:inline-flex;
+    width: auto;
+    vertical-align: middle;
+}

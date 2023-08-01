@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 250000,
+      "quantity": "3000",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "printer",
+      "price": 100000,
+      "quantity": 40,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "smartphone",
+      "price": 120000,
+      "quantity": 100,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "ecrans",
+      "price": "3000",
+      "quantity": "1",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "00",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 5
+    },
+    {
+      "name": "Mack",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 6
+    },{
+      "name": "Mack1",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
